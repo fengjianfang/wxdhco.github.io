@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://www.wxdhco.com/sitemap.xml
+
+# Baiduspider
+User-agent: Baiduspider
+Allow: /
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
